@@ -1,1 +1,1154 @@
-﻿[{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Last time Group Policy was applied","setting_name":"Last time Group Policy was applied","baseline_value":"25/06/2026 at 16:49:14","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy was applied from","setting_name":"Group Policy was applied from","baseline_value":"N/A","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy slow link threshold","setting_name":"Group Policy slow link threshold","baseline_value":"500 kbps","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Name","setting_name":"Domain Name","baseline_value":"37L4247D25-07","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Type","setting_name":"Domain Type","baseline_value":"WindowsNT 4","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Filtering","setting_name":"Filtering","baseline_value":"Not Applied (Empty)","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Last time Group Policy was applied","setting_name":"Last time Group Policy was applied","baseline_value":"25/06/2026 at 16:50:02","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy was applied from","setting_name":"Group Policy was applied from","baseline_value":"N/A","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy slow link threshold","setting_name":"Group Policy slow link threshold","baseline_value":"500 kbps","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Name","setting_name":"Domain Name","baseline_value":"WIN-QLF4IPMB4QF","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Type","setting_name":"Domain Type","baseline_value":"<Local Computer>","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Filtering","setting_name":"Filtering","baseline_value":"Not Applied (Empty)","description":"","category":"Copyright (C) Microsoft Corp. 1981-2001","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Unicode/Unicode","setting_name":"Unicode","baseline_value":"yes","description":"","category":"Unicode","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/MinimumPasswordAge","setting_name":"MinimumPasswordAge","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/MaximumPasswordAge","setting_name":"MaximumPasswordAge","baseline_value":"42","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/MinimumPasswordLength","setting_name":"MinimumPasswordLength","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/PasswordComplexity","setting_name":"PasswordComplexity","baseline_value":"1","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/PasswordHistorySize","setting_name":"PasswordHistorySize","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/LockoutBadCount","setting_name":"LockoutBadCount","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/RequireLogonToChangePassword","setting_name":"RequireLogonToChangePassword","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/ForceLogoffWhenHourExpire","setting_name":"ForceLogoffWhenHourExpire","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/NewAdministratorName","setting_name":"NewAdministratorName","baseline_value":"\"Administrator\"","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/NewGuestName","setting_name":"NewGuestName","baseline_value":"\"Guest\"","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/ClearTextPassword","setting_name":"ClearTextPassword","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/LSAAnonymousNameLookup","setting_name":"LSAAnonymousNameLookup","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/EnableAdminAccount","setting_name":"EnableAdminAccount","baseline_value":"1","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"System Access/EnableGuestAccount","setting_name":"EnableGuestAccount","baseline_value":"0","description":"","category":"System Access","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditSystemEvents","setting_name":"AuditSystemEvents","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditLogonEvents","setting_name":"AuditLogonEvents","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditObjectAccess","setting_name":"AuditObjectAccess","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditPrivilegeUse","setting_name":"AuditPrivilegeUse","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditPolicyChange","setting_name":"AuditPolicyChange","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditAccountManage","setting_name":"AuditAccountManage","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditProcessTracking","setting_name":"AuditProcessTracking","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditDSAccess","setting_name":"AuditDSAccess","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Event Audit/AuditAccountLogon","setting_name":"AuditAccountLogon","baseline_value":"0","description":"","category":"Event Audit","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SecurityLevel","setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SecurityLevel","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SetCommand","setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SetCommand","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\CachedLogonsCount","setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\CachedLogonsCount","baseline_value":"1,\"10\"","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ForceUnlockLogon","setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ForceUnlockLogon","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\PasswordExpiryWarning","setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\PasswordExpiryWarning","baseline_value":"4,5","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ScRemoveOption","setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ScRemoveOption","baseline_value":"1,\"0\"","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorAdmin","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorAdmin","baseline_value":"4,5","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorUser","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorUser","baseline_value":"4,3","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableCAD","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableCAD","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DontDisplayLastUserName","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DontDisplayLastUserName","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableInstallerDetection","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableInstallerDetection","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableLUA","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableLUA","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableSecureUIAPaths","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableSecureUIAPaths","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableUIADesktopToggle","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableUIADesktopToggle","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableVirtualization","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableVirtualization","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\FilterAdministratorToken","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\FilterAdministratorToken","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeCaption","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeCaption","baseline_value":"1,\"\"","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeText","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeText","baseline_value":"7,","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\PromptOnSecureDesktop","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\PromptOnSecureDesktop","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ScForceOption","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ScForceOption","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ShutdownWithoutLogon","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ShutdownWithoutLogon","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\UndockWithoutLogon","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\UndockWithoutLogon","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ValidateAdminCodeSignatures","setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ValidateAdminCodeSignatures","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled","setting_name":"MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\AuditBaseObjects","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\AuditBaseObjects","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\CrashOnAuditFail","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\CrashOnAuditFail","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\DisableDomainCreds","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\DisableDomainCreds","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\EveryoneIncludesAnonymous","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\EveryoneIncludesAnonymous","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FIPSAlgorithmPolicy\\Enabled","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FIPSAlgorithmPolicy\\Enabled","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\ForceGuest","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\ForceGuest","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FullPrivilegeAuditing","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FullPrivilegeAuditing","baseline_value":"3,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\LimitBlankPasswordUse","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\LimitBlankPasswordUse","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinClientSec","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinClientSec","baseline_value":"4,536870912","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinServerSec","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinServerSec","baseline_value":"4,536870912","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\NoLMHash","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\NoLMHash","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymous","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymous","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymousSAM","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymousSAM","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Print\\Providers\\LanMan Print Services\\Servers\\AddPrinterDrivers","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Print\\Providers\\LanMan Print Services\\Servers\\AddPrinterDrivers","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedExactPaths\\Machine","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedExactPaths\\Machine","baseline_value":"7,System\\CurrentControlSet\\Control\\ProductOptions,System\\CurrentControlSet\\Control\\Server Applications,Software\\Microsoft\\Windows NT\\CurrentVersion","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedPaths\\Machine","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedPaths\\Machine","baseline_value":"7,System\\CurrentControlSet\\Control\\Print\\Printers,System\\CurrentControlSet\\Services\\Eventlog,Software\\Microsoft\\OLAP Server,Software\\Microsoft\\Windows NT\\CurrentVersion\\Print,Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows,System\\CurrentControlSet\\Control\\ContentIndex,System\\CurrentControlSet\\Control\\Terminal Server,System\\CurrentControlSet\\Control\\Terminal Server\\UserConfig,System\\CurrentControlSet\\Control\\Terminal Server\\DefaultUserConfiguration,Software\\Microsoft\\Windows NT\\CurrentVersion\\Perflib,System\\CurrentControlSet\\Services\\SysmonLog","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Kernel\\ObCaseInsensitive","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Kernel\\ObCaseInsensitive","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Memory Management\\ClearPageFileAtShutdown","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Memory Management\\ClearPageFileAtShutdown","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\ProtectionMode","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\ProtectionMode","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\SubSystems\\optional","setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\SubSystems\\optional","baseline_value":"7,Posix","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\AutoDisconnect","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\AutoDisconnect","baseline_value":"4,15","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableForcedLogOff","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableForcedLogOff","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableSecuritySignature","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableSecuritySignature","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\NullSessionPipes","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\NullSessionPipes","baseline_value":"7,","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RequireSecuritySignature","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RequireSecuritySignature","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RestrictNullSessAccess","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RestrictNullSessAccess","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnablePlainTextPassword","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnablePlainTextPassword","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnableSecuritySignature","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnableSecuritySignature","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\RequireSecuritySignature","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\RequireSecuritySignature","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LDAP\\LDAPClientIntegrity","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LDAP\\LDAPClientIntegrity","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\DisablePasswordChange","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\DisablePasswordChange","baseline_value":"4,0","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\MaximumPasswordAge","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\MaximumPasswordAge","baseline_value":"4,30","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireSignOrSeal","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireSignOrSeal","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireStrongKey","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireStrongKey","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SealSecureChannel","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SealSecureChannel","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SignSecureChannel","setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SignSecureChannel","baseline_value":"4,1","description":"","category":"Registry Values","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeNetworkLogonRight","setting_name":"SeNetworkLogonRight","baseline_value":"*S-1-1-0,*S-1-5-32-544,*S-1-5-32-545,*S-1-5-32-551","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeBackupPrivilege","setting_name":"SeBackupPrivilege","baseline_value":"*S-1-5-32-544,*S-1-5-32-551","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeChangeNotifyPrivilege","setting_name":"SeChangeNotifyPrivilege","baseline_value":"*S-1-1-0,*S-1-5-19,*S-1-5-20,*S-1-5-32-544,*S-1-5-32-545,*S-1-5-32-551","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeSystemtimePrivilege","setting_name":"SeSystemtimePrivilege","baseline_value":"*S-1-5-19,*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeCreatePagefilePrivilege","setting_name":"SeCreatePagefilePrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeDebugPrivilege","setting_name":"SeDebugPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeRemoteShutdownPrivilege","setting_name":"SeRemoteShutdownPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeAuditPrivilege","setting_name":"SeAuditPrivilege","baseline_value":"*S-1-5-19,*S-1-5-20","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeIncreaseQuotaPrivilege","setting_name":"SeIncreaseQuotaPrivilege","baseline_value":"*S-1-5-19,*S-1-5-20,*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeIncreaseBasePriorityPrivilege","setting_name":"SeIncreaseBasePriorityPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeLoadDriverPrivilege","setting_name":"SeLoadDriverPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeBatchLogonRight","setting_name":"SeBatchLogonRight","baseline_value":"*S-1-5-32-544,*S-1-5-32-551,*S-1-5-32-559","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeServiceLogonRight","setting_name":"SeServiceLogonRight","baseline_value":"*S-1-5-80-0","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeInteractiveLogonRight","setting_name":"SeInteractiveLogonRight","baseline_value":"*S-1-5-32-544,*S-1-5-32-545,*S-1-5-32-551","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeSecurityPrivilege","setting_name":"SeSecurityPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeSystemEnvironmentPrivilege","setting_name":"SeSystemEnvironmentPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeProfileSingleProcessPrivilege","setting_name":"SeProfileSingleProcessPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeSystemProfilePrivilege","setting_name":"SeSystemProfilePrivilege","baseline_value":"*S-1-5-32-544,*S-1-5-80-3139157870-2983391045-3678747466-658725712-1809340420","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeAssignPrimaryTokenPrivilege","setting_name":"SeAssignPrimaryTokenPrivilege","baseline_value":"*S-1-5-19,*S-1-5-20","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeRestorePrivilege","setting_name":"SeRestorePrivilege","baseline_value":"*S-1-5-32-544,*S-1-5-32-551","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeShutdownPrivilege","setting_name":"SeShutdownPrivilege","baseline_value":"*S-1-5-32-544,*S-1-5-32-551","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeTakeOwnershipPrivilege","setting_name":"SeTakeOwnershipPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeUndockPrivilege","setting_name":"SeUndockPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeManageVolumePrivilege","setting_name":"SeManageVolumePrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeRemoteInteractiveLogonRight","setting_name":"SeRemoteInteractiveLogonRight","baseline_value":"*S-1-5-32-544,*S-1-5-32-555","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeImpersonatePrivilege","setting_name":"SeImpersonatePrivilege","baseline_value":"*S-1-5-19,*S-1-5-20,*S-1-5-32-544,*S-1-5-6","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeCreateGlobalPrivilege","setting_name":"SeCreateGlobalPrivilege","baseline_value":"*S-1-5-19,*S-1-5-20,*S-1-5-32-544,*S-1-5-6","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeIncreaseWorkingSetPrivilege","setting_name":"SeIncreaseWorkingSetPrivilege","baseline_value":"*S-1-5-32-545","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeTimeZonePrivilege","setting_name":"SeTimeZonePrivilege","baseline_value":"*S-1-5-19,*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Privilege Rights/SeCreateSymbolicLinkPrivilege","setting_name":"SeCreateSymbolicLinkPrivilege","baseline_value":"*S-1-5-32-544","description":"","category":"Privilege Rights","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Version/signature","setting_name":"signature","baseline_value":"\"$CHICAGO$\"","description":"","category":"Version","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"},{"policy_path":"Version/Revision","setting_name":"Revision","baseline_value":"1","description":"","category":"Version","last_updated_at":"2026-06-25T16:12:13.889750Z","os_family":"windows_server_2008_r2"}]
+[
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Last time Group Policy was applied",
+      "setting_name":"Last time Group Policy was applied",
+      "baseline_value":"25/06/2026 at 16:49:14",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy was applied from",
+      "setting_name":"Group Policy was applied from",
+      "baseline_value":"N/A",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy slow link threshold",
+      "setting_name":"Group Policy slow link threshold",
+      "baseline_value":"500 kbps",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Name",
+      "setting_name":"Domain Name",
+      "baseline_value":"37L4247D25-07",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Type",
+      "setting_name":"Domain Type",
+      "baseline_value":"WindowsNT 4",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Filtering",
+      "setting_name":"Filtering",
+      "baseline_value":"Not Applied (Empty)",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Last time Group Policy was applied",
+      "setting_name":"Last time Group Policy was applied",
+      "baseline_value":"25/06/2026 at 16:50:02",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy was applied from",
+      "setting_name":"Group Policy was applied from",
+      "baseline_value":"N/A",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Group Policy slow link threshold",
+      "setting_name":"Group Policy slow link threshold",
+      "baseline_value":"500 kbps",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Name",
+      "setting_name":"Domain Name",
+      "baseline_value":"WIN-QLF4IPMB4QF",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Domain Type",
+      "setting_name":"Domain Type",
+      "baseline_value":"<Local Computer>",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Copyright (C) Microsoft Corp. 1981-2001/Filtering",
+      "setting_name":"Filtering",
+      "baseline_value":"Not Applied (Empty)",
+      "description":"",
+      "category":"Copyright (C) Microsoft Corp. 1981-2001",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Unicode/Unicode",
+      "setting_name":"Unicode",
+      "baseline_value":"yes",
+      "description":"",
+      "category":"Unicode",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/MinimumPasswordAge",
+      "setting_name":"MinimumPasswordAge",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/MaximumPasswordAge",
+      "setting_name":"MaximumPasswordAge",
+      "baseline_value":"42",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/MinimumPasswordLength",
+      "setting_name":"MinimumPasswordLength",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/PasswordComplexity",
+      "setting_name":"PasswordComplexity",
+      "baseline_value":"1",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/PasswordHistorySize",
+      "setting_name":"PasswordHistorySize",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/LockoutBadCount",
+      "setting_name":"LockoutBadCount",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/RequireLogonToChangePassword",
+      "setting_name":"RequireLogonToChangePassword",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/ForceLogoffWhenHourExpire",
+      "setting_name":"ForceLogoffWhenHourExpire",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/NewAdministratorName",
+      "setting_name":"NewAdministratorName",
+      "baseline_value":"\"Administrator\"",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/NewGuestName",
+      "setting_name":"NewGuestName",
+      "baseline_value":"\"Guest\"",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/ClearTextPassword",
+      "setting_name":"ClearTextPassword",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/LSAAnonymousNameLookup",
+      "setting_name":"LSAAnonymousNameLookup",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/EnableAdminAccount",
+      "setting_name":"EnableAdminAccount",
+      "baseline_value":"1",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"System Access/EnableGuestAccount",
+      "setting_name":"EnableGuestAccount",
+      "baseline_value":"0",
+      "description":"",
+      "category":"System Access",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditSystemEvents",
+      "setting_name":"AuditSystemEvents",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditLogonEvents",
+      "setting_name":"AuditLogonEvents",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditObjectAccess",
+      "setting_name":"AuditObjectAccess",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditPrivilegeUse",
+      "setting_name":"AuditPrivilegeUse",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditPolicyChange",
+      "setting_name":"AuditPolicyChange",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditAccountManage",
+      "setting_name":"AuditAccountManage",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditProcessTracking",
+      "setting_name":"AuditProcessTracking",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditDSAccess",
+      "setting_name":"AuditDSAccess",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Event Audit/AuditAccountLogon",
+      "setting_name":"AuditAccountLogon",
+      "baseline_value":"0",
+      "description":"",
+      "category":"Event Audit",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SecurityLevel",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SecurityLevel",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SetCommand",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Setup\\RecoveryConsole\\SetCommand",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\CachedLogonsCount",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\CachedLogonsCount",
+      "baseline_value":"1,\"10\"",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ForceUnlockLogon",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ForceUnlockLogon",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\PasswordExpiryWarning",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\PasswordExpiryWarning",
+      "baseline_value":"4,5",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ScRemoveOption",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\ScRemoveOption",
+      "baseline_value":"1,\"0\"",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorAdmin",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorAdmin",
+      "baseline_value":"4,5",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorUser",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ConsentPromptBehaviorUser",
+      "baseline_value":"4,3",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableCAD",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableCAD",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DontDisplayLastUserName",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DontDisplayLastUserName",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableInstallerDetection",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableInstallerDetection",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableLUA",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableLUA",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableSecureUIAPaths",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableSecureUIAPaths",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableUIADesktopToggle",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableUIADesktopToggle",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableVirtualization",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableVirtualization",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\FilterAdministratorToken",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\FilterAdministratorToken",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeCaption",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeCaption",
+      "baseline_value":"1,\"\"",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeText",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LegalNoticeText",
+      "baseline_value":"7,",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\PromptOnSecureDesktop",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\PromptOnSecureDesktop",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ScForceOption",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ScForceOption",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ShutdownWithoutLogon",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ShutdownWithoutLogon",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\UndockWithoutLogon",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\UndockWithoutLogon",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ValidateAdminCodeSignatures",
+      "setting_name":"MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\ValidateAdminCodeSignatures",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+      "setting_name":"MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\AuditBaseObjects",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\AuditBaseObjects",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\CrashOnAuditFail",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\CrashOnAuditFail",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\DisableDomainCreds",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\DisableDomainCreds",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\EveryoneIncludesAnonymous",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\EveryoneIncludesAnonymous",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FIPSAlgorithmPolicy\\Enabled",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FIPSAlgorithmPolicy\\Enabled",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\ForceGuest",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\ForceGuest",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FullPrivilegeAuditing",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FullPrivilegeAuditing",
+      "baseline_value":"3,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\LimitBlankPasswordUse",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\LimitBlankPasswordUse",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinClientSec",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinClientSec",
+      "baseline_value":"4,536870912",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinServerSec",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\MSV1_0\\NTLMMinServerSec",
+      "baseline_value":"4,536870912",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\NoLMHash",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\NoLMHash",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymous",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymous",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymousSAM",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\RestrictAnonymousSAM",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Print\\Providers\\LanMan Print Services\\Servers\\AddPrinterDrivers",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Print\\Providers\\LanMan Print Services\\Servers\\AddPrinterDrivers",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedExactPaths\\Machine",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedExactPaths\\Machine",
+      "baseline_value":"7,System\\CurrentControlSet\\Control\\ProductOptions,System\\CurrentControlSet\\Control\\Server Applications,Software\\Microsoft\\Windows NT\\CurrentVersion",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedPaths\\Machine",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\SecurePipeServers\\Winreg\\AllowedPaths\\Machine",
+      "baseline_value":"7,System\\CurrentControlSet\\Control\\Print\\Printers,System\\CurrentControlSet\\Services\\Eventlog,Software\\Microsoft\\OLAP Server,Software\\Microsoft\\Windows NT\\CurrentVersion\\Print,Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows,System\\CurrentControlSet\\Control\\ContentIndex,System\\CurrentControlSet\\Control\\Terminal Server,System\\CurrentControlSet\\Control\\Terminal Server\\UserConfig,System\\CurrentControlSet\\Control\\Terminal Server\\DefaultUserConfiguration,Software\\Microsoft\\Windows NT\\CurrentVersion\\Perflib,System\\CurrentControlSet\\Services\\SysmonLog",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Kernel\\ObCaseInsensitive",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Kernel\\ObCaseInsensitive",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Memory Management\\ClearPageFileAtShutdown",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\Memory Management\\ClearPageFileAtShutdown",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\ProtectionMode",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\ProtectionMode",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\SubSystems\\optional",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\SubSystems\\optional",
+      "baseline_value":"7,Posix",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\AutoDisconnect",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\AutoDisconnect",
+      "baseline_value":"4,15",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableForcedLogOff",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableForcedLogOff",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableSecuritySignature",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\EnableSecuritySignature",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\NullSessionPipes",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\NullSessionPipes",
+      "baseline_value":"7,",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RequireSecuritySignature",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RequireSecuritySignature",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RestrictNullSessAccess",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanManServer\\Parameters\\RestrictNullSessAccess",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnablePlainTextPassword",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnablePlainTextPassword",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnableSecuritySignature",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\EnableSecuritySignature",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\RequireSecuritySignature",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters\\RequireSecuritySignature",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\LDAP\\LDAPClientIntegrity",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\LDAP\\LDAPClientIntegrity",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\DisablePasswordChange",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\DisablePasswordChange",
+      "baseline_value":"4,0",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\MaximumPasswordAge",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\MaximumPasswordAge",
+      "baseline_value":"4,30",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireSignOrSeal",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireSignOrSeal",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireStrongKey",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\RequireStrongKey",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SealSecureChannel",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SealSecureChannel",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Registry Values/MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SignSecureChannel",
+      "setting_name":"MACHINE\\System\\CurrentControlSet\\Services\\Netlogon\\Parameters\\SignSecureChannel",
+      "baseline_value":"4,1",
+      "description":"",
+      "category":"Registry Values",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeNetworkLogonRight",
+      "setting_name":"SeNetworkLogonRight",
+      "baseline_value":"*S-1-1-0,*S-1-5-32-544,*S-1-5-32-545,*S-1-5-32-551",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeBackupPrivilege",
+      "setting_name":"SeBackupPrivilege",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-32-551",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeChangeNotifyPrivilege",
+      "setting_name":"SeChangeNotifyPrivilege",
+      "baseline_value":"*S-1-1-0,*S-1-5-19,*S-1-5-20,*S-1-5-32-544,*S-1-5-32-545,*S-1-5-32-551",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeSystemtimePrivilege",
+      "setting_name":"SeSystemtimePrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeCreatePagefilePrivilege",
+      "setting_name":"SeCreatePagefilePrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeDebugPrivilege",
+      "setting_name":"SeDebugPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeRemoteShutdownPrivilege",
+      "setting_name":"SeRemoteShutdownPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeAuditPrivilege",
+      "setting_name":"SeAuditPrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-20",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeIncreaseQuotaPrivilege",
+      "setting_name":"SeIncreaseQuotaPrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-20,*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeIncreaseBasePriorityPrivilege",
+      "setting_name":"SeIncreaseBasePriorityPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeLoadDriverPrivilege",
+      "setting_name":"SeLoadDriverPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeBatchLogonRight",
+      "setting_name":"SeBatchLogonRight",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-32-551,*S-1-5-32-559",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeServiceLogonRight",
+      "setting_name":"SeServiceLogonRight",
+      "baseline_value":"*S-1-5-80-0",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeInteractiveLogonRight",
+      "setting_name":"SeInteractiveLogonRight",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-32-545,*S-1-5-32-551",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeSecurityPrivilege",
+      "setting_name":"SeSecurityPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeSystemEnvironmentPrivilege",
+      "setting_name":"SeSystemEnvironmentPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeProfileSingleProcessPrivilege",
+      "setting_name":"SeProfileSingleProcessPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeSystemProfilePrivilege",
+      "setting_name":"SeSystemProfilePrivilege",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-80-3139157870-2983391045-3678747466-658725712-1809340420",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeAssignPrimaryTokenPrivilege",
+      "setting_name":"SeAssignPrimaryTokenPrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-20",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeRestorePrivilege",
+      "setting_name":"SeRestorePrivilege",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-32-551",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeShutdownPrivilege",
+      "setting_name":"SeShutdownPrivilege",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-32-551",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeTakeOwnershipPrivilege",
+      "setting_name":"SeTakeOwnershipPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeUndockPrivilege",
+      "setting_name":"SeUndockPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeManageVolumePrivilege",
+      "setting_name":"SeManageVolumePrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeRemoteInteractiveLogonRight",
+      "setting_name":"SeRemoteInteractiveLogonRight",
+      "baseline_value":"*S-1-5-32-544,*S-1-5-32-555",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeImpersonatePrivilege",
+      "setting_name":"SeImpersonatePrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-20,*S-1-5-32-544,*S-1-5-6",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeCreateGlobalPrivilege",
+      "setting_name":"SeCreateGlobalPrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-20,*S-1-5-32-544,*S-1-5-6",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeIncreaseWorkingSetPrivilege",
+      "setting_name":"SeIncreaseWorkingSetPrivilege",
+      "baseline_value":"*S-1-5-32-545",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeTimeZonePrivilege",
+      "setting_name":"SeTimeZonePrivilege",
+      "baseline_value":"*S-1-5-19,*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Privilege Rights/SeCreateSymbolicLinkPrivilege",
+      "setting_name":"SeCreateSymbolicLinkPrivilege",
+      "baseline_value":"*S-1-5-32-544",
+      "description":"",
+      "category":"Privilege Rights",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Version/signature",
+      "setting_name":"signature",
+      "baseline_value":"\"$CHICAGO$\"",
+      "description":"",
+      "category":"Version",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   },
+   {
+      "policy_path":"Version/Revision",
+      "setting_name":"Revision",
+      "baseline_value":"1",
+      "description":"",
+      "category":"Version",
+      "last_updated_at":"2026-06-25T16:12:13.889750Z",
+      "os_family":"windows_server_2008_r2"
+   }
+]
