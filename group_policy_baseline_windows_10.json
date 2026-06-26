@@ -1,0 +1,56 @@
+﻿[
+    {
+        "policy_path":  "c Microsoft Corporation. All rights reserved./Last time Group Policy was applied",
+        "setting_name":  "Last time Group Policy was applied",
+        "baseline_value":  "25/06/2026 at 22:32:39",
+        "description":  "",
+        "category":  "c Microsoft Corporation. All rights reserved.",
+        "last_updated_at":  "2026-06-25T22:11:49.484964Z",
+        "os_family":  "windows_10"
+    },
+    {
+        "policy_path":  "c Microsoft Corporation. All rights reserved./Group Policy was applied from",
+        "setting_name":  "Group Policy was applied from",
+        "baseline_value":  "N/A",
+        "description":  "",
+        "category":  "c Microsoft Corporation. All rights reserved.",
+        "last_updated_at":  "2026-06-25T22:11:49.484964Z",
+        "os_family":  "windows_10"
+    },
+    {
+        "policy_path":  "c Microsoft Corporation. All rights reserved./Group Policy slow link threshold",
+        "setting_name":  "Group Policy slow link threshold",
+        "baseline_value":  "500 kbps",
+        "description":  "",
+        "category":  "c Microsoft Corporation. All rights reserved.",
+        "last_updated_at":  "2026-06-25T22:11:49.484964Z",
+        "os_family":  "windows_10"
+    },
+    {
+        "policy_path":  "c Microsoft Corporation. All rights reserved./Domain Name",
+        "setting_name":  "Domain Name",
+        "baseline_value":  "DESKTOP-OD218TG",
+        "description":  "",
+        "category":  "c Microsoft Corporation. All rights reserved.",
+        "last_updated_at":  "2026-06-25T22:11:49.484964Z",
+        "os_family":  "windows_10"
+    },
+    {
+        "policy_path":  "c Microsoft Corporation. All rights reserved./Domain Type",
+        "setting_name":  "Domain Type",
+        "baseline_value":  "\u003cLocal Computer\u003e",
+        "description":  "",
+        "category":  "c Microsoft Corporation. All rights reserved.",
+        "last_updated_at":  "2026-06-25T22:11:49.484964Z",
+        "os_family":  "windows_10"
+    },
+    {
+        "policy_path":  "c Microsoft Corporation. All rights reserved./Filtering",
+        "setting_name":  "Filtering",
+        "baseline_value":  "Not Applied (Empty)",
+        "description":  "",
+        "category":  "c Microsoft Corporation. All rights reserved.",
+        "last_updated_at":  "2026-06-25T22:11:49.484964Z",
+        "os_family":  "windows_10"
+    }
+]
